@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap');
+*{ font-family: "Ruda", sans-serif;}
+.collapse{
+    margin-left: 60%;
+}
